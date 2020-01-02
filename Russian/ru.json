@@ -619,65 +619,65 @@
     "tarion_escalation":                "Конфликт в Тарионе",
     "tarion_escalation_desc":           "Выполните миссию в Тарионе",
     
-    "tridenkor_escalation":             "Tridenkor Escalation",
-    "tridenkor_escalation_desc":        "Complete a mission in Tridenkor",
+    "tridenkor_escalation":             "Эскалация Триденкор",
+    "tridenkor_escalation_desc":        "Завершить миссию Триденкор",
     
-    "colowis_escalation":               "Colowis Escalation",
-    "colowis_escalation_desc":          "Complete a mission in Colowis",
+    "colowis_escalation":               "Конфликт в Каллауисе",
+    "colowis_escalation_desc":          "Завершить Миссию Каллауис",
     
-    "mzenim_escalation":                "Mzenim Escalation",
-    "mzenim_escalation_desc":           "Complete a mission in Mzenim",
+    "mzenim_escalation":                "Конфликт в Мзениме",
+    "mzenim_escalation_desc":           "Завершить миссию Мзеним",
     
-    "silaar_escalation":                "Silaar Escalation",
-    "silaar_escalation_desc":           "Complete a mission in Silaar",
+    "silaar_escalation":                "Конфликт в Силлааре",
+    "silaar_escalation_desc":           "Завершить миссию Силаар",
     
-    "high_path_escalation":             "High Path Escalation",
-    "high_path_escalation_desc":        "Complete a mission in High Path",
+    "high_path_escalation":             "Конфликт в Высоком пути",
+    "high_path_escalation_desc":        "Завершите миссию Высокой Путь",
     
-    "scrambler_belt_escalation":        "Scrambler Belt Escalation",
-    "scrambler_belt_escalation_desc":   "Complete a mission in Scrabler Belt",
+    "scrambler_belt_escalation":        "Конфликт в Поясе Шифратора",
+    "scrambler_belt_escalation_desc":   "Завершить миссию Пояс Шифратора",
     
-    "eolutch_escalation":               "Eolutch Escalation",
-    "eolutch_escalation_desc":          "Complete a mission in Eolutch",
+    "eolutch_escalation":               "Конфликт в Эолатче",
+    "eolutch_escalation_desc":          "Завершить миссию Эалатч",
     
-    "charred_link_escalation":          "Charred Link Escalation",
-    "charred_link_escalation_desc":     "Complete a mission in Charred Link",
+    "charred_link_escalation":          "Конфликт в Обугленной ссылки",
+    "charred_link_escalation_desc":     "Завершить миссию Обугленная ссылка",
     
-    "pulsar_vector_escalation":         "Pulsar Vector Escalation",
-    "pulsar_vector_escalation_desc":    "Complete a mission in Pulsar Vector",
+    "pulsar_vector_escalation":         "Конфликт в Пульсаре вектор",
+    "pulsar_vector_escalation_desc":    "Завершить миссию Пульсар вектор",
     
-    "bloom_escalation":                 "Bloom Escalation",
-    "bloom_escalation_desc":            "Complete a mission in Bloom",
+    "bloom_escalation":                 "Конфликт в Розквите,
+    "bloom_escalation_desc":            "Завершить миссию Розквит",
     
-    "lumer_pass_escalation":            "Lumer Pass Escalation",
-    "lumer_pass_escalation_desc":       "Complete a mission in Lumer Pass",
+    "lumer_pass_escalation":            "Конфликт в Светлом пути",
+    "lumer_pass_escalation_desc":       "Завершить миссию Светлый путь",
     
-    "wacar_escalation":                 "Wacar Escalation",
-    "wacar_escalation_desc":            "Complete a mission in Wacar",
+    "wacar_escalation":                 "Конфликт в Вакаре",
+    "wacar_escalation_desc":            "Завершить миссию Вакар",
     
-    "venerion_escalation":              "Venerion Escalation",
-    "venerion_escalation_desc":         "Complete a mission in Venerion",
+    "venerion_escalation":              "Конфликт в Венерионе",
+    "venerion_escalation_desc":         "Завершить миссию Венерион",
     
-    "phasse_escalation":                "Phasse Escalation",
-    "phasse_escalation_desc":           "Complete a mission in Phasse",
+    "phasse_escalation":                "Конфликт в Фассе",
+    "phasse_escalation_desc":           "Завершить миссию Фасс",
     
-    "nebula_escalation":                "Nebula Escalation",
-    "nebula_escalation_desc":           "Complete a mission in Nebula",
+    "nebula_escalation":                "Конфликт в Небуле",
+    "nebula_escalation_desc":           "Завершить миссию Нэбула",
     
-    "spiral_escalation":                "Spiral Escalation",
-    "spiral_escalation_desc":           "Complete a mission in Spiral",
+    "spiral_escalation":                "Конфликт в Спирале",
+    "spiral_escalation_desc":           "Завершить миссию Спираль",
     
-    "rift_escalation":                  "Through Rift",
-    "rift_escalation_desc":             "Complete a mission in Rift",
+    "rift_escalation":                  "Через Рифт",
+    "rift_escalation_desc":             "Завершить миссию Рифт",
     
-    "broken_infinity_escalation":       "Through Broken Infinity",
-    "broken_infinity_escalation_desc":  "Complete a mission in Broken Infinity",
+    "broken_infinity_escalation":       "Через Сломанную бесконечность",
+    "broken_infinity_escalation_desc":  "Завершить миссию Сломана бесконечность",
     
-    "in_war_path":                      "In War Path",
-    "in_war_path_desc":                 "Complete a mission in War Path",
+    "in_war_path":                      "На Пути войны",
+    "in_war_path_desc":                 "Завершить миссию Путь войны",
     
-    "in_white_grid":                    "In White Grid",
-    "in_white_grid_desc":               "Complete a mission in White Grid",
+    "in_white_grid":                    "В Белой клетке,
+    "in_white_grid_desc":               "Завершить миссию Белая клетка",
     
     
     
