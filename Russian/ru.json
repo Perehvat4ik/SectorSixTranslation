@@ -684,33 +684,33 @@
     "???":                        "???",
     "n/a":                        "N/A",
     
-    "music_volume":               "Music volume",
-    "sound_volume":               "Sound volume",
+    "music_volume":               "Громкость музыки",
+    "sound_volume":               "Громкость",
     
-    "customize_controls":         "Customize keyboard",
-    "customize_controls_desc":    "Change the way the game is controlled",
+    "customize_controls":         "Настройки клавиатуры",
+    "customize_controls_desc":    "Изменить способ управления игрой",
     
-    "customize_avatar":           "Customize avatar",
-    "customize_desc":             "Change character name and avatar",
+    "customize_avatar":           "Настройки Аватара",
+    "customize_desc":             "Изменить имя персонажа и аватар",
     
-    "confirm":                    "Confirm",
-    "spaceship_name":             "Change spaceship name",
-    "rename_ship":                "Change",
+    "confirm":                    "Подтвердить",
+    "spaceship_name":             "Изменить название корабля",
+    "rename_ship":                "Изменить",
     
-    "version":                    "Version",
+    "version":                    "Версия",
     
-    "spaceship":                  "Level $$ spaceship",
+    "spaceship":                  "Уровень корабля $$",
     
-    "remap_upper":                "Customize keyboard controls",
-    "remap_lower":                "Click on control buttons and then press keyboard keys",
+    "remap_upper":                "Настройки управления клавиатуры",
+    "remap_lower":                "Нажмите на кнопки управления, а затем нажмите клавиши",
     
-    "solo_version":               "Version",
-    "empty_save_slot":            "Save slot $$",
-    "saved":                      "Saved",
+    "solo_version":               "Версия",
+    "empty_save_slot":            "Слот сохранения $$",
+    "saved":                      "Сохранено",
     
-    "achievements_achieved":      "Achievements achieved",
-    "achieved":                   "Achieved",
-    "new":                        "New",
+    "achievements_achieved":      "Достигнутые достижения",
+    "achieved":                   "Получено",
+    "new":                        "Новое",
     
          "COMMENT 11": "Below: Spaceship stat summary strings",
     
